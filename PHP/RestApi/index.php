@@ -1,19 +1,12 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title></title>
-    </head>
-    <body>
-        <?php
-          foreach ($_GET as $key => $value) {
-           echo "Key: $key; Value: $value<br />\n";
-        }
-         if($_GET['action'] == "POST") {
-            echo $_GET['id'];
-        } else {
-            echo "NOT POST1";
-        }
-        ?>
-    </body>
-</html>
+<?php
+require_once("C:/My Data(Atin)/Personnel/GitHub/DemoProjects/PHP/RestApi/Common/Config.php");
+require_once(REST_DIR."/rest/RestApiImpl.php");
+require_once(REST_DIR."/Logger/ScreenLogger.php");
+
+    $restObj=new RestApiImpl();
+          
+    $restObj->get();
+    
+    ScreenLogger::logInfo("Exit");
+       
+?>

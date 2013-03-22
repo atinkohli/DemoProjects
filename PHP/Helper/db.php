@@ -30,5 +30,5 @@ echo "<br/>";
 
 echo "Going to close connection";
 
-pg_close($con);
+pg_close($db);
 ?>

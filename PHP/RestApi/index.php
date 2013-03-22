@@ -11,10 +11,8 @@ $reqType=$_SERVER['REQUEST_METHOD'];
 
 if($reqType=="GET") {
     $restObj->get();
-    ScreenLogger::logInfo($_GET['app']);
 } else if($reqType=="POST") {
     $restObj->post();
-    ScreenLogger::logInfo($_GET['app']);
 } else if($reqType=="PUT") {
     $restObj->put();
 } else if ($reqType=="DELETE") {

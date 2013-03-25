@@ -1,4 +1,6 @@
 <?php
+
+//use UserDataAccess;
 //require_once("IRestApi.php");
 require_once(REST_DIR."/Logger/ScreenLogger.php");
 require_once (REST_DIR."/dbAccess/UserDataAccess.php");
@@ -30,8 +32,12 @@ class RestApiImpl {
         foreach ($_POST as $key => $value) {
             ScreenLogger::logInfo("Key: $key; Value: $value");
         }
-        //$dbUser=new UserDataAccess();
-        //$dbUser->initialize($connection, $result);
+        $dbUser=new UserDataAccess();
+        if($dbUser->getResult() == true) {
+            $dbUser->executeSelectQuery("testing", "*");
+        } else {
+            ScreenLogger::logError("Failed to initialized.");
+        }
     }
 
     public function put(){

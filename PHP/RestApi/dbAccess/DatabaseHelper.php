@@ -14,33 +14,38 @@ require_once(REST_DIR."/Logger/ScreenLogger.php");
 class DatabaseHelper {
     
     var $connection=null;
+    var $result = false;
     
     function __construct() {
         ScreenLogger::logInfo("DatabaseHelper initialized.");
     }
 
-    public function initialize($connection, $result) {
+    public function initialize() {
         $conn_string = "host=localhost port=5432 dbname=atindb user=postgres password=pgdb123";
-        $connection = pg_connect($conn_string);
+        $this->connection = pg_connect($conn_string);
         
-        if(!$connection)
+        if(!$this->connection)
         {
             ScreenLogger::logError("Failed to connect to the Database");
-            $result=false;
+            $this->result=false;
         } else {
             ScreenLogger::logInfo("Connected to the Database");
-            $result=true;
+            $this->result=true;
         }
     }
     
     public function closeConnection(){
-        pg_close($connection);
+        ScreenLogger::logInfo("Closing Database Connection");
+        pg_close($this->connection);
     }
-    public function executeSelectQuery($connection, $tableName, $queryString);
-    public function executeInsertQuery($connection, $tableName, $queryString);
-    public function executeUpdateQuery($connection, $tableName, $queryString);
-    public function executeDeleteQuery($connection, $tableName, $queryString);
     
+    function getConnection(){
+        return $this->connection;
+    }
+    
+    function getResult(){
+        return $this->result;
+    }
 }
 
 ?>

@@ -1,4 +1,4 @@
 master : first entry 
 help : first entry
 master : entry from the web
-
+checking new user details

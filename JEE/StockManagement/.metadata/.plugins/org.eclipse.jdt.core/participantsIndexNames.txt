@@ -1,0 +1,3 @@
+INDEX VERSION 1.126
+C:\AtinData\Official\Workspace\Study\SampleProject\StockManagement\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3761844383.index
+\StockManagement-web\src

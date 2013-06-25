@@ -1,0 +1,13 @@
+1369145471315	Encapsulate field 'itemName'
+1369145482005	Encapsulate field 'stockCount'
+1369145491283	Encapsulate field 'itemCode'
+1369146864293	Encapsulate field 'localStock'
+1369147116956	Encapsulate field 'localId'
+1369147122620	Encapsulate field 'locationName'
+1369147131110	Encapsulate field 'localStockCount'
+1369151335398	Move compilation unit
+1369151344552	Move compilation unit
+1369256897462	Delete element
+1369256904924	Delete element
+1369440109525	Rename package 'com.kohlisoft.stockmanagement.domain'
+1369440123446	Rename package 'com.kohlisoft.stockmanagement.service'

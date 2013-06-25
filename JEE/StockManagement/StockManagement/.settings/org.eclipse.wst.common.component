@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="StockManagement">
+        <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
+        <dependent-module archiveName="StockManagement-ejb.jar" deploy-path="/" handle="module:/resource/StockManagement-ejb/StockManagement-ejb">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="StockManagement-ejbClient.jar" deploy-path="/" handle="module:/resource/StockManagement-ejbClient/StockManagement-ejbClient">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="StockManagement-web.war" deploy-path="/" handle="module:/resource/StockManagement-web/StockManagement-web">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="StockManagement-jpa.jar" deploy-path="/" handle="module:/resource/StockManagement-jpa/StockManagement-jpa">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>

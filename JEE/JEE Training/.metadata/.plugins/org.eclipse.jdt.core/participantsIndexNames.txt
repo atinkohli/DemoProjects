@@ -1,0 +1,7 @@
+INDEX VERSION 1.126
+C:\AtinData\Official\Workspace\Study\JEE Training\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\542977302.index
+\StudentSessionBeans-web\src
+C:\AtinData\Official\Workspace\Study\JEE Training\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3161043855.index
+\StudentJNDI\src
+C:\AtinData\Official\Workspace\Study\JEE Training\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3862043527.index
+\StudentAdvancedSessionBeans-web\src

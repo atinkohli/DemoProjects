@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="StudentSessionBeans">
+        <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
+        <dependent-module archiveName="StudentSessionBeans-ejb.jar" deploy-path="/" handle="module:/resource/StudentSessionBeans-ejb/StudentSessionBeans-ejb">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="StudentSessionBeans-ejbClient.jar" deploy-path="/" handle="module:/resource/StudentSessionBeans-ejbClient/StudentSessionBeans-ejbClient">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="StudentSessionBeans-web.war" deploy-path="/" handle="module:/resource/StudentSessionBeans-web/StudentSessionBeans-web">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>

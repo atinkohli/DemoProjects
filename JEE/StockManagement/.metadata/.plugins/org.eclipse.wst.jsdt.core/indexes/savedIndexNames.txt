@@ -1,0 +1,5 @@
+INDEX VERSION 1.122+C:\AtinData\Personnel\GitHub\DemoProjects\JAVA\JEE\StockManagement\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1192071932.index
+1273610483.index
+3263878111.index
+15510825.index

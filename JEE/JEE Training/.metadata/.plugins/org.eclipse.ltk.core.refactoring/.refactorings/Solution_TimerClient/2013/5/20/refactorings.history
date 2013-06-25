@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;jboss-ejb-client.properties&apos; to &apos;MyTimerClient/src&apos;&#x0D;&#x0A;- Original project: &apos;Solution_TimerClient&apos;&#x0D;&#x0A;- Destination element: &apos;MyTimerClient/src&apos;&#x0D;&#x0A;- Original element: &apos;jboss-ejb-client.properties&apos;" description="Copy file" destination="=MyTimerClient/src" element1="src/jboss-ejb-client.properties" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1368789700933" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.kohlisoft.stockmanagement.jpa.domain.Item&apos; to &apos;MainStock&apos;&#x0D;&#x0A;- Original project: &apos;StockManagement-jpa&apos;&#x0D;&#x0A;- Original element: &apos;com.kohlisoft.stockmanagement.jpa.domain.Item&apos;&#x0D;&#x0A;- Renamed element: &apos;com.kohlisoft.stockmanagement.jpa.domain.MainStock&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Item&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.kohlisoft.stockmanagement.jpa.domain{Item.java[Item" matchStrategy="1" name="MainStock" qualified="false" references="true" similarDeclarations="false" stamp="1370381379822" textual="false" version="1.0"/>
+</session>

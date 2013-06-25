@@ -1,1 +1,0 @@
-This Folder will hold all my JAVA Demo Projects.

@@ -10219,3 +10219,16 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.e
 
 !ENTRY org.eclipse.osgi 2 1 2013-06-27 15:24:19.531
 !MESSAGE NLS missing message: JBossRuntimeStartup_JBoss_EAP_Server_6_1 in: org.jboss.ide.eclipse.as.core.Messages
+!SESSION 2013-06-27 17:10:35.875 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_21
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IE
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.mylyn.tasks.ui 4 0 2013-06-27 17:10:53.047
+!MESSAGE Could not load repository template extension contributed by org.jboss.tools.common.mylyn with connectorKind jira
+
+!ENTRY org.eclipse.osgi 2 1 2013-06-27 17:10:53.546
+!MESSAGE NLS missing message: JBossRuntimeStartup_JBoss_EAP_Server_6_1 in: org.jboss.ide.eclipse.as.core.Messages

@@ -1,0 +1,5 @@
+package com.kohlisoft.cdi.decorator;
+
+public class MessageDecorator {
+
+}

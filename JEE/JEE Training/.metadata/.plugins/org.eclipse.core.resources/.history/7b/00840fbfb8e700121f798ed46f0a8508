@@ -1,0 +1,6 @@
+package com.kohlisoft.interceptors;
+
+@Remote
+public interface CurrencyConvertor {
+
+}

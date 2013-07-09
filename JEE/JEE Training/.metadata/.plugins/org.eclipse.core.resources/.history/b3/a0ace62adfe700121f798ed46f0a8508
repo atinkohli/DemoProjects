@@ -1,0 +1,28 @@
+package com.kohlisoft.cdi.client;
+
+import java.util.Properties;
+
+import javax.naming.Context;
+import javax.naming.InitialContext;
+
+import com.kohlisoft.cdi.ejb.MessageServiceRemote;
+import com.kohlisoft.interceptors.CurrencyConvertorRemote;
+
+public class CdiDriver {
+	public static void main(String[] args) throws Exception {
+		Properties jndiProps = new Properties();
+		jndiProps.put(Context.INITIAL_CONTEXT_FACTORY, "org.jboss.naming.remote.client.InitialContextFactory");
+		jndiProps.put(Context.PROVIDER_URL,"remote://localhost:4447");
+		// create a context passing these properties
+		jndiProps.put(Context.SECURITY_PRINCIPAL, "atin1");
+		// password
+		jndiProps.put(Context.SECURITY_CREDENTIALS, "pass123");
+
+		//jndiProps.put("jboss.naming.client.ejb.context", true);
+		Context ctx = new InitialContext(jndiProps);
+		
+		MessageServiceRemote mesgBean = (MessageServiceRemote)ctx.lookup("EJBInterceptors/CurrencyConvertor!com.kohlisoft.interceptors.CurrencyConvertorRemote");
+		
+		System.out.println(mesgBean.getMessage());
+	}
+}

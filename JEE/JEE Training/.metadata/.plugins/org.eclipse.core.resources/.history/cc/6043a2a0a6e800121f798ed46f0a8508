@@ -1,0 +1,7 @@
+package com.kohlisoft.travel.service;
+
+import javax.jws.WebMethod;
+
+@WebService()
+public class TravelService {
+}

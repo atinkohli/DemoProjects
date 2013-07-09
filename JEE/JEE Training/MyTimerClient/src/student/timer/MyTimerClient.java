@@ -15,9 +15,9 @@ public class MyTimerClient {
 		jndiProps.put(Context.INITIAL_CONTEXT_FACTORY, "org.jboss.naming.remote.client.InitialContextFactory");
 		jndiProps.put(Context.PROVIDER_URL,"remote://localhost:4447");
 		// create a context passing these properties
-		//jndiProps.put(Context.SECURITY_PRINCIPAL, "atin1");
+		jndiProps.put(Context.SECURITY_PRINCIPAL, "atin1");
 		// password
-		//jndiProps.put(Context.SECURITY_CREDENTIALS, "pass123");
+		jndiProps.put(Context.SECURITY_CREDENTIALS, "pass123");
 
 		//jndiProps.put("jboss.naming.client.ejb.context", true);
 		

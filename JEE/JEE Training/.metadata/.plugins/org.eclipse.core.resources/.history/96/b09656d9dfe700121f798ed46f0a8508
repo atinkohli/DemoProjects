@@ -1,0 +1,10 @@
+package com.kohlisoft.cdi;
+
+public class SimpleMessageProvider implements MessageProvider {
+
+	@Override
+	public String getMessage() {
+		return "Hello Atin Kohli fk d World!!! ;)";
+	}
+
+}

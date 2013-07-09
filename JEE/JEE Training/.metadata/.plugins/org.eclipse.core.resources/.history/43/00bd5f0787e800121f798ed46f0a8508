@@ -1,0 +1,13 @@
+package com.kohlisoft.cdi;
+
+import com.kohlisoft.cdi.qualifiers.Simple;
+
+@Simple
+public class SimpleMessageProvider implements MessageProvider {
+
+	@Override
+	public String getMessage() {
+		return "Hello World!!! ;)";
+	}
+
+}

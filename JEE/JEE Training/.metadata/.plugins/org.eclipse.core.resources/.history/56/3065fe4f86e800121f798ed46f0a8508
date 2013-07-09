@@ -1,0 +1,5 @@
+package com.kohlisoft.cdi.events;
+
+public class MessageRequestEvent {
+
+}

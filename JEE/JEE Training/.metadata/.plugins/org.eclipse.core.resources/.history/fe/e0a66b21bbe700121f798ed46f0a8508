@@ -1,0 +1,26 @@
+package com.kohlisoft.client;
+
+import java.util.Properties;
+
+import javax.naming.Context;
+import javax.naming.InitialContext;
+
+import com.kohlisoft.interceptors.CurrencyConvertorRemote;
+
+public class Driver {
+
+	
+	
+	public static void main(String[] args) throws Exception {
+		Properties jndiProps = new Properties();
+		jndiProps.put(Context.INITIAL_CONTEXT_FACTORY, "org.jboss.naming.remote.client.InitialContextFactory");
+		jndiProps.put(Context.PROVIDER_URL,"remote://localhost:4447");
+		Context ctx = new InitialContext(jndiProps);
+		
+		CurrencyConvertorRemote currConv = (CurrencyConvertorRemote)ctx.lookup("java:global/EJBInterceptors/CurrencyConvertor!com.kohlisoft.interceptors.CurrencyConvertorRemote");
+		
+		currConv.PoundsToEuros(100);
+	}
+	
+	
+}

@@ -1,0 +1,22 @@
+package com.kohlisoft.interceptors;
+
+import javax.ejb.LocalBean;
+import javax.ejb.Stateless;
+
+/**
+ * Session Bean implementation class CurrencyConvertor
+ */
+@Stateless
+public class CurrencyConvertor implements CurrencyConvertorRemote {
+
+
+    public CurrencyConvertor() {
+        // TODO Auto-generated constructor stub
+    }
+
+	@Override
+	public double PoundsToEuros(double pounds) {
+		return pounds * 1.2;
+	}
+
+}

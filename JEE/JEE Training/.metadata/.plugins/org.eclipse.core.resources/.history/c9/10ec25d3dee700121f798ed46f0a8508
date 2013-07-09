@@ -1,0 +1,19 @@
+package com.kohlisoft.cdi.ejb;
+
+import javax.ejb.LocalBean;
+import javax.ejb.Stateless;
+
+/**
+ * Session Bean implementation class MessageService
+ */
+@Stateless
+public class MessageService implements MessageServiceRemote {
+
+    /**
+     * Default constructor. 
+     */
+    public MessageService() {
+        // TODO Auto-generated constructor stub
+    }
+
+}

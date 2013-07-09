@@ -1,0 +1,5 @@
+package com.kohlisoft.cdi.client;
+
+public class CdiDriver {
+
+}

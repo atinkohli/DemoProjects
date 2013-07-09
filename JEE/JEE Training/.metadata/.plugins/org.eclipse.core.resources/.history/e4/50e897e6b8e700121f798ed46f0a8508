@@ -1,0 +1,9 @@
+package com.kohlisoft.interceptors;
+
+import javax.ejb.Remote;
+
+@Remote
+public interface CurrencyConvertor {
+
+	public double poundToEuro(double pound);
+}

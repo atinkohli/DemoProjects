@@ -1,0 +1,5 @@
+package com.kohlisoft.travel.service;
+
+public class Hotel {
+
+}

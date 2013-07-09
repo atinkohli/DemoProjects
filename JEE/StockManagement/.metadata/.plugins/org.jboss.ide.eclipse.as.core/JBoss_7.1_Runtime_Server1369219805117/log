@@ -4493,3 +4493,71 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.e
 
 !ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-06-25 22:39:39.722
 !MESSAGE Module StockManagement on JBoss 7.1 Runtime Server not yet fully deployed. Waiting...
+!SESSION 2013-06-27 17:10:35.875 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_21
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IE
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-06-27 17:22:46.897
+!MESSAGE Module StockManagement published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-06-27 17:22:46.949
+!MESSAGE Module StockManagement-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-06-27 17:22:47.012
+!MESSAGE Module StockManagement-ejbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-06-27 17:22:47.080
+!MESSAGE Module StockManagement-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-06-27 17:22:47.172
+!MESSAGE Module StockManagement-jpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-06-27 17:22:53.478
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-06-27 17:22:53.699
+!MESSAGE Server processes have been terminated.
+!SESSION 2013-06-27 17:23:12.200 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_21
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IE
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-06-27 17:23:52.261
+!MESSAGE Module StockManagement published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-06-27 17:23:52.331
+!MESSAGE Module StockManagement-ejb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-06-27 17:23:52.416
+!MESSAGE Module StockManagement-ejbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-06-27 17:23:52.499
+!MESSAGE Module StockManagement-web published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-06-27 17:23:52.578
+!MESSAGE Module StockManagement-jpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-06-27 17:23:58.743
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-06-27 17:24:11.801
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-06-27 17:24:13.009
+!MESSAGE Module StockManagement on JBoss 7.1 Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-06-27 23:01:08.288
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-06-27 23:01:08.318
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-06-27 23:01:08.328
+!MESSAGE Server processes have been terminated.

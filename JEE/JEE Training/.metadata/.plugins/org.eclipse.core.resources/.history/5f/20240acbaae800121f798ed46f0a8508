@@ -1,0 +1,14 @@
+package com.kohlisoft.travel.client;
+
+import com.kohlisoft.travel.service.Hotel;
+import com.kohlisoft.travel.service.TravelServiceProxy;
+
+public class TravelClient {
+
+	public static void main(String[] args) {
+		
+		TravelServiceProxy proxy = new TravelServiceProxy();
+		Hotel hotel = new Hotel();
+		hotel.
+	}
+}

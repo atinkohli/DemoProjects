@@ -1,8 +1,5 @@
-INDEX VERSION 1.122+C:\AtinData\Personnel\GitHub\DemoProjects\JAVA\JEE\JEE Training\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-66197957.index
-339921272.index
-52939883.index
-1340519530.index
+INDEX VERSION 1.122+C:\AtinData\Personnel\GitHub\DemoProjects\JEE\JEE Training\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
 904871966.index
-3112543074.index
+1340519530.index
 1079330623.index
+52939883.index

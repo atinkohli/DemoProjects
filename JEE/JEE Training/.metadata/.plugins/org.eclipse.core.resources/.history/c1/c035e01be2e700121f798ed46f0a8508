@@ -1,0 +1,5 @@
+package com.kohlisoft.cdi.qualifiers;
+
+public @interface Simple {
+
+}

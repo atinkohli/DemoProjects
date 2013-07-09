@@ -1,0 +1,16 @@
+package com.kohlisoft.client;
+
+import java.util.Properties;
+
+import javax.naming.Context;
+import javax.naming.InitialContext;
+
+public class Driver {
+
+	Properties jndiProps = new Properties();
+	jndiProps.put(Context.INITIAL_CONTEXT_FACTORY, "org.jboss.naming.remote.client.InitialContextFactory");
+	jndiProps.put(Context.PROVIDER_URL,"remote://localhost:4447");
+	Context ctx = new InitialContext(jndiProps);
+	
+	
+}

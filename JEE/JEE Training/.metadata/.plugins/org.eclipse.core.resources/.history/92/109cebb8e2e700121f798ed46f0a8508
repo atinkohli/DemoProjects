@@ -1,0 +1,38 @@
+package com.kohlisoft.cdi.ejb;
+
+import javax.ejb.LocalBean;
+import javax.ejb.Stateless;
+import javax.inject.Inject;
+
+import com.kohlisoft.cdi.MessageProvider;
+import com.kohlisoft.cdi.qualifiers.Fancy;
+import com.kohlisoft.cdi.qualifiers.Simple;
+
+/**
+ * Session Bean implementation class MessageService
+ */
+@Stateless
+public class MessageService implements MessageServiceRemote {
+
+	@Inject @Fancy
+	public MessageProvider msgProv;
+	
+	@Inject @Simple
+	public MessageProvider msgProv2;
+    /**
+     * Default constructor. 
+     */
+    public MessageService() {
+        // TODO Auto-generated constructor stub
+    }
+
+	@Override
+	public String getMessage(String role) {
+		if(role.equalsIgnoreCase("admin")) {
+			return msgProv.getMessage();
+		} else {
+			return msgProv2.getMessage();
+		}
+	}
+
+}

@@ -1,0 +1,20 @@
+package com.kohlisoft.interceptors;
+
+import javax.ejb.LocalBean;
+import javax.ejb.Stateless;
+
+/**
+ * Session Bean implementation class CurrencyConvertor
+ */
+@Stateless
+@LocalBean
+public class CurrencyConvertor implements CurrencyConvertorRemote {
+
+    /**
+     * Default constructor. 
+     */
+    public CurrencyConvertor() {
+        // TODO Auto-generated constructor stub
+    }
+
+}

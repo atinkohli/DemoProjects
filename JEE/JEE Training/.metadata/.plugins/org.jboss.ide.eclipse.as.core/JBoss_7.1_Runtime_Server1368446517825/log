@@ -1155,3 +1155,649 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.e
 
 !ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-05-26 13:25:33.651
 !MESSAGE Server processes have been terminated.
+!SESSION 2013-07-08 10:03:26.985 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_21
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IE
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 11:31:09.116
+!MESSAGE Module EJBInterceptors published without error.
+
+!ENTRY unknown 0 0 2013-07-08 11:31:09.139
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-08 11:31:09.154
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-08 11:31:09.168
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-08 11:31:09.178
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-08 11:31:09.190
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-08 11:31:15.603
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-08 11:31:35.579
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 11:31:48.200
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 11:31:48.207
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 11:31:48.212
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-08 11:32:57.815
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-08 11:33:04.481
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-08 11:33:20.409
+!MESSAGE Module EJBInterceptors on JBoss 7.1 Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2013-07-08 11:33:41.347
+!MESSAGE Module EJBInterceptors on JBoss 7.1 Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 11:35:25.863
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 11:35:25.949
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 11:35:25.956
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 11:35:57.119
+!MESSAGE Module EJBInterceptors published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-08 11:36:02.578
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-08 11:36:10.035
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 11:50:03.287
+!MESSAGE 1 files modified in module EJBInterceptors
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 11:50:04.766
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 11:50:04.778
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 11:50:04.781
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-08 11:50:23.985
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-08 11:50:30.809
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 11:54:47.575
+!MESSAGE 1 files modified in module EJBInterceptors
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 11:55:04.740
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 11:55:04.817
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 11:55:04.823
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 11:55:30.109
+!MESSAGE Module EJBInterceptors published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-08 11:55:35.563
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-08 11:55:42.058
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 11:59:19.750
+!MESSAGE 1 files modified in module EJBInterceptors
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 12:01:11.658
+!MESSAGE 1 files modified in module EJBInterceptors
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 12:01:22.844
+!MESSAGE 1 files modified in module EJBInterceptors
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 12:02:10.609
+!MESSAGE 1 files modified in module EJBInterceptors
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 12:02:22.648
+!MESSAGE 1 files modified in module EJBInterceptors
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 12:02:23.989
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 12:02:24.019
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 12:02:24.026
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 12:02:48.288
+!MESSAGE Module EJBInterceptors published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-08 12:02:53.678
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-08 12:03:01.255
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 12:04:30.479
+!MESSAGE 1 files modified in module EJBInterceptors
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 12:05:50.726
+!MESSAGE 1 files modified in module EJBInterceptors
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 12:06:06.767
+!MESSAGE 1 files modified in module EJBInterceptors
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 12:13:58.346
+!MESSAGE Module MyTimer published without error.
+
+!ENTRY unknown 0 0 2013-07-08 12:13:58.380
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 12:14:44.811
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 12:14:44.831
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 12:14:44.834
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 12:16:37.951
+!MESSAGE Module EJBInterceptors published without error.
+
+!ENTRY unknown 0 0 2013-07-08 12:16:37.976
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-08 12:16:43.336
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-08 12:16:50.218
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 12:18:25.743
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 12:18:25.783
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 12:18:25.787
+!MESSAGE Server processes have been terminated.
+
+!ENTRY unknown 0 0 2013-07-08 12:18:36.601
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-08 12:18:42.043
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-08 12:18:54.585
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 12:19:33.620
+!MESSAGE Module EJBInterceptors published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 12:23:46.522
+!MESSAGE 1 files modified in module EJBInterceptors
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 12:23:53.916
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 12:23:53.936
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 12:23:53.941
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-08 12:24:09.788
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-08 12:24:17.086
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 16:00:51.782
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 16:00:51.808
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 16:00:51.814
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 16:01:06.381
+!MESSAGE Module CDI_Injection published without error.
+
+!ENTRY unknown 0 0 2013-07-08 16:01:06.420
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-08 16:01:11.863
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-08 16:01:24.643
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 16:03:08.932
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 16:03:17.346
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 16:03:17.401
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 16:03:17.406
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-08 16:03:31.097
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-08 16:03:37.913
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 16:04:01.047
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 16:04:01.074
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 16:04:01.078
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 16:06:17.786
+!MESSAGE Module CDI_Injection published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-08 16:06:23.018
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-08 16:06:29.792
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 16:07:44.631
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 16:07:45.715
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 16:07:45.725
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 16:07:45.731
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 16:12:56.091
+!MESSAGE 3 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-08 16:13:01.402
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-08 16:13:08.212
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 16:13:19.087
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 16:13:19.117
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 16:13:19.121
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 16:13:38.312
+!MESSAGE Module CDI_Injection published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-08 16:13:43.699
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-08 16:13:50.522
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 16:18:56.006
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 16:20:01.757
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 16:20:12.219
+!MESSAGE 2 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 16:20:24.650
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 16:21:32.240
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 16:21:50.691
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 16:22:05.463
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 16:22:10.109
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 16:22:10.141
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 16:22:10.145
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 16:22:33.781
+!MESSAGE Module CDI_Injection published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-08 16:22:39.098
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-08 16:22:46.154
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 16:22:54.750
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 16:22:57.993
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 16:22:58.347
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 16:22:58.353
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 16:22:58.356
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-08 16:23:13.009
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-08 16:23:19.852
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 16:23:26.562
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 16:23:26.608
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-08 16:23:26.612
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 16:23:46.166
+!MESSAGE Module CDI_Injection published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-08 16:23:51.681
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-08 16:23:58.304
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 16:26:13.970
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 16:27:30.364
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-08 16:42:52.701
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 10:35:11.190
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 10:36:41.553
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 10:37:16.698
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 10:38:43.295
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-09 10:40:15.731
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-09 10:40:15.748
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-09 10:40:15.752
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-09 10:40:32.673
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-09 10:40:45.620
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 10:41:16.368
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-09 10:41:17.268
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-09 10:41:17.284
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-09 10:41:17.289
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 10:41:42.907
+!MESSAGE Module CDI_Injection published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-09 10:41:48.332
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-09 10:41:54.630
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-09 10:42:23.444
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-09 10:42:23.470
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-09 10:42:23.474
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 10:47:39.388
+!MESSAGE 2 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-09 10:47:44.771
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-09 10:47:51.642
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 10:48:42.001
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-09 10:48:59.623
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-09 10:48:59.708
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-09 10:48:59.712
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-09 10:49:15.790
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-09 10:49:22.654
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 10:49:55.114
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-09 10:49:58.611
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-09 10:49:58.633
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-09 10:49:58.637
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-09 10:50:13.508
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-09 10:50:20.137
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 11:56:11.927
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 11:56:19.113
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 11:56:54.001
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 11:57:15.705
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 11:57:50.902
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 11:58:52.425
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 11:59:20.283
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 12:00:27.335
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 12:02:23.204
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 12:02:49.023
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-09 12:03:47.173
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-09 12:03:47.240
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-09 12:03:47.244
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-09 12:04:01.707
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-09 12:04:07.631
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 12:05:41.890
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 12:06:20.699
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-09 12:06:25.019
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-09 12:06:25.072
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-09 12:06:25.077
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-09 12:06:45.435
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-09 12:06:51.986
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 15:53:53.295
+!MESSAGE Module SOAPTravelService published without error.
+
+!ENTRY unknown 0 0 2013-07-09 15:53:53.351
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-09 15:53:55.073
+!MESSAGE Module SOAPTravelService on JBoss 7.1 Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 16:05:15.803
+!MESSAGE 12 files modified in module SOAPTravelService
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 16:05:32.100
+!MESSAGE 1 files modified in module SOAPTravelService
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 16:05:36.824
+!MESSAGE 1 files modified in module SOAPTravelService
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 16:05:39.363
+!MESSAGE 1 files modified in module SOAPTravelService
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 16:05:54.828
+!MESSAGE 4 files modified in module SOAPTravelService
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 16:07:51.401
+!MESSAGE 8 files modified in module SOAPTravelService
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 16:08:06.200
+!MESSAGE 6 files modified in module SOAPTravelService
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-09 16:09:32.589
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-09 16:09:32.662
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-09 16:09:32.664
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 16:10:25.399
+!MESSAGE Module SOAPTravelService published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-09 16:10:30.805
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-09 16:10:37.904
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-09 16:10:38.513
+!MESSAGE Module SOAPTravelService on JBoss 7.1 Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 16:12:57.817
+!MESSAGE 1 files modified in module SOAPTravelService
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 16:13:03.459
+!MESSAGE 1 files modified in module SOAPTravelService
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-09 16:13:10.598
+!MESSAGE 1 files modified in module SOAPTravelService
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-09 16:13:27.173
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-09 16:13:27.256
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-09 16:13:27.260
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-09 16:13:46.051
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-09 16:13:52.825
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-09 16:13:54.169
+!MESSAGE Module SOAPTravelService on JBoss 7.1 Runtime Server not yet fully deployed. Waiting...

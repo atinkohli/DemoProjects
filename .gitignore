@@ -3,5 +3,5 @@
 *.abc
 /classes/
 *.class
+/.settings/
 /.metadata/
-/JJJ/

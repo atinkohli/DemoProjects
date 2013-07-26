@@ -1,6 +1,7 @@
 /PHP/RestApi/nbproject/private/
 /PHP/Helper/nbproject/private/
-.abc
+*.abc
 /classes/
-.class
+*.class
 /.metadata/
+/JJJ/

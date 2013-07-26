@@ -1,0 +1,7 @@
+package com.oss.ericsson.cm.autoprov;
+
+import javax.ws.rs.Produces;
+
+@Path("/AutoProvApp")
+public class AutoProvService {
+}

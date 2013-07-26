@@ -1,0 +1,4 @@
+package com.kohlisoft.rest.webservice;
+
+public class MyRESTApplication extends Application {
+}

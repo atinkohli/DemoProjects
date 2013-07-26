@@ -2,8 +2,11 @@ package com.kohlisoft.cdi.client;
 
 import java.util.Properties;
 
+import javax.naming.Binding;
 import javax.naming.Context;
 import javax.naming.InitialContext;
+import javax.naming.NameClassPair;
+import javax.naming.NamingEnumeration;
 
 import com.kohlisoft.cdi.ejb.MessageServiceRemote;
 
@@ -20,10 +23,14 @@ public class CdiDriver {
 		//jndiProps.put("jboss.naming.client.ejb.context", true);
 		Context ctx = new InitialContext(jndiProps);
 		
-		MessageServiceRemote mesgBean = (MessageServiceRemote)ctx.lookup("CDI_Injection/MessageService!com.kohlisoft.cdi.ejb.MessageServiceRemote");
+//		MessageServiceRemote mesgBean = (MessageServiceRemote)ctx.lookup("CDI_Injection/MessageService!com.kohlisoft.cdi.ejb.MessageServiceRemote");
 		
-		System.out.println("FOR ADMIN -- " + mesgBean.getMessage("ADMIN"));
-		
-		System.out.println("For OTHERS -- " + mesgBean.getMessage("OTHERS"));
+		NamingEnumeration<NameClassPair> list = ctx. list("com.kohlisoft.cdi.ejb.MessageServiceRemote");
+		while(list.hasMore()){
+			System.out.println(list.next().getName());
+		}
+//		System.out.println("FOR ADMIN -- " + mesgBean.getMessage("ADMIN"));
+//		
+//		System.out.println("For OTHERS -- " + mesgBean.getMessage("OTHERS"));
 	}
 }

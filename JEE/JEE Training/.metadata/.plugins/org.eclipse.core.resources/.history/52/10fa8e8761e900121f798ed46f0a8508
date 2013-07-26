@@ -1,0 +1,8 @@
+package com.kohlisoft.travel.rest.service;
+
+import java.util.Set;
+import java.util.HashSet;
+import javax.ws.rs.core.Application;
+
+public class MyRESTApplication extends Application {
+}

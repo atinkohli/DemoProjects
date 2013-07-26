@@ -1,0 +1,5 @@
+package com.kohlisoft.travel.rest.service;
+
+@Path("/MyRESTApplication")
+public class TravelService {
+}

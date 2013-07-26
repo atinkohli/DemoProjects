@@ -1,0 +1,29 @@
+package com.kohlisoft.interceptors;
+
+import javax.ejb.EJB;
+import javax.ejb.Stateless;
+import javax.interceptor.Interceptors;
+
+import com.kohlisoft.cdi.ejb.MessageService;
+
+/**
+ * Session Bean implementation class CurrencyConvertor
+ */
+@Stateless
+@Interceptors(LoggingInterceptor.class)
+public class CurrencyConvertor implements CurrencyConvertorRemote {
+
+
+	@Inject
+	MessageService msgSer;
+	
+    public CurrencyConvertor() {
+       
+    }
+
+	public double PoundsToEuros(double pounds) {
+		System.out.println(msgSer.getMessage("Admin"));
+		return pounds / 1.2;
+	}
+
+}

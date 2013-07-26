@@ -1,0 +1,66 @@
+package com.kohlisoft.travel.rest.service;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.ejb.EJB;
+import javax.inject.Inject;
+import javax.ws.rs.Consumes;
+import javax.ws.rs.POST;
+import javax.ws.rs.Produces;
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+
+import com.kohlisoft.cdi.ejb.MessageServiceRemote;
+import com.kohlisoft.travel.rest.domain.Hotel;
+
+@Path("/TravelService")
+public class TravelService {
+
+	@EJB
+	MessageServiceRemote mesgBean;
+	
+	
+	private List<Hotel> list = new ArrayList<Hotel>();
+	public TravelService() {
+		Hotel h1 = new Hotel();
+		h1.setName("Radisson");
+		h1.setCity("Athlone");
+		h1.setStars(4);
+		
+		Hotel h2 = new Hotel();
+		h2.setName("Sheraton");
+		h2.setCity("Athlone");
+		h2.setStars(4);
+		
+		list.add(h1);
+		list.add(h2);
+		
+		
+	}
+	
+	@GET()
+	@Produces("text/plain")
+	public String sayHello() {
+	    return "Hello Atin";
+	}
+	
+	@GET()
+	@Produces({"application/xml","application/json"})
+	@Path("/hotels")
+	public List<Hotel> getHotels() {
+		System.out.println(mesgBean.getMessage("admin"));
+	    return list;
+	}
+	
+	@POST
+	@Produces({"application/xml","application/json"})
+	@Consumes({"application/xml","application/json"})
+	@Path("/addhotel")
+	public List<Hotel> addHotel(Hotel hotel){
+		String msg = "Added Hotel " + hotel.getName();
+		list.add(hotel);
+		return getHotels();
+	}
+	
+}

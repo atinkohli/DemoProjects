@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;com.arpn.review.jpa.beans&apos; to &apos;ReviewSystemJpa/src&apos;&#x0D;&#x0A;- Original project: &apos;OnlineReviewSystem&apos;&#x0D;&#x0A;- Destination element: &apos;ReviewSystemJpa/src&apos;&#x0D;&#x0A;- Original element: &apos;OnlineReviewSystem/src/com.arpn.review.jpa.beans&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=ReviewSystemJpa/src" element1="/src&lt;com.arpn.review.jpa.beans" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1373541277710" version="1.0"/>
+</session>

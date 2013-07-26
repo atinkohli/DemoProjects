@@ -1,0 +1,6 @@
+package com.oss.ericsson.cm.autoprov;
+
+import java.util.Set;
+
+public class AutoProvApp extends Application {
+}

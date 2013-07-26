@@ -26,11 +26,9 @@
 <fullyQualifiedTypeName name="java.util.Map"/>
 <fullyQualifiedTypeName name="java.util.Date"/>
 <fullyQualifiedTypeName name="java.util.HashMap"/>
-<fullyQualifiedTypeName name="javax.naming.InitialContext"/>
 <fullyQualifiedTypeName name="student.sessionbeans.web.DiaryServlet"/>
 <fullyQualifiedTypeName name="java.io.PrintWriter"/>
 <fullyQualifiedTypeName name="java.util.Calendar"/>
-<fullyQualifiedTypeName name="javax.ejb.EJB"/>
 <fullyQualifiedTypeName name="javax.annotation.Resource"/>
 <fullyQualifiedTypeName name="org.jboss.ejb3.annotation.SecurityDomain"/>
 <fullyQualifiedTypeName name="student.timer.MyTimerRemote"/>
@@ -38,4 +36,14 @@
 <fullyQualifiedTypeName name="javax.persistence.AccessType"/>
 <fullyQualifiedTypeName name="java.nio.file.AccessMode"/>
 <fullyQualifiedTypeName name="javax.annotation.security.PermitAll"/>
+<fullyQualifiedTypeName name="com.kohlisoft.cdi.ejb.MessageService"/>
+<fullyQualifiedTypeName name="javax.ejb.EJB"/>
+<fullyQualifiedTypeName name="com.kohlisoft.cdi.ejb.MessageServiceRemote"/>
+<fullyQualifiedTypeName name="javax.inject.Inject"/>
+<fullyQualifiedTypeName name="javax.naming.NameClassPair"/>
+<fullyQualifiedTypeName name="javax.naming.InitialContext"/>
+<fullyQualifiedTypeName name="javax.naming.NamingEnumeration"/>
+<fullyQualifiedTypeName name="javax.naming.Binding"/>
+<fullyQualifiedTypeName name="javax.naming.NamingException"/>
+<fullyQualifiedTypeName name="javax.naming.Context"/>
 </qualifiedTypeNameHistroy>

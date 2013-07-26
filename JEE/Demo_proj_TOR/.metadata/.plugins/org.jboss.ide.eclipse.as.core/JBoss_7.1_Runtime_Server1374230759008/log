@@ -1,0 +1,37 @@
+!SESSION 2013-07-19 11:32:43.503 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_21
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IE
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-19 11:46:02.769
+!MESSAGE Module AutoProv published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-19 11:46:02.853
+!MESSAGE Module AutoProvOnline published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-19 11:46:09.487
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-19 11:46:27.609
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-19 11:46:28.925
+!MESSAGE Module AutoProv on JBoss 7.1 Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY unknown 0 0 2013-07-19 11:47:39.114
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-19 11:47:39.146
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-20 00:03:43.508
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-20 00:03:43.676
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-20 00:03:43.683
+!MESSAGE Server processes have been terminated.

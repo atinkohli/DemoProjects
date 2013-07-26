@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ReviewSystemWeb&apos; to &apos;OnlineReviewSystem&apos;" description="Rename resource &apos;ReviewSystemWeb&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/ReviewSystemWeb" name="OnlineReviewSystem" stamp="1373532624119" updateReferences="true"/>
+</session>

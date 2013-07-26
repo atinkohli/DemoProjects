@@ -1,0 +1,5 @@
+package com.oss.ericsson.cm.autoprov;
+
+@Path("/AutoProvApp")
+public class AutoProvService {
+}

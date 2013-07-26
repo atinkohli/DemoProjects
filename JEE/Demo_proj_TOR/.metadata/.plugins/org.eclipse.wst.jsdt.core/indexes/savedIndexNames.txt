@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+C:\AtinData\Personnel\GitHub\DemoProjects\JEE\Demo_proj_TOR\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2312042564.index
+3268851548.index
+280018967.index
+2093710816.index
+1255960374.index

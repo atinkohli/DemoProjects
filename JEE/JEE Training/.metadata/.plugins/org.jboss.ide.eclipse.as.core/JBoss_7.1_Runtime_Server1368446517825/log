@@ -1801,3 +1801,649 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.e
 
 !ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-09 16:13:54.169
 !MESSAGE Module SOAPTravelService on JBoss 7.1 Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 00:28:22.977
+!MESSAGE Module CDI_Injection published without error.
+
+!ENTRY unknown 0 0 2013-07-10 00:28:23.034
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 00:29:32.821
+!MESSAGE 1 files modified in module CDI_Injection
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 00:37:08.861
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 00:37:08.902
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 00:37:08.906
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 00:37:48.809
+!MESSAGE Module CDI_Injection published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-10 00:37:54.197
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-10 00:38:02.659
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 11:43:07.856
+!MESSAGE Module SimpleRestService published without error.
+
+!ENTRY unknown 0 0 2013-07-10 11:43:07.959
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-10 11:43:09.237
+!MESSAGE Module SimpleRestService on JBoss 7.1 Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 11:44:41.875
+!MESSAGE 1 files modified in module SimpleRestService
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 11:46:04.568
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 11:46:04.579
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 11:46:04.581
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 11:46:26.537
+!MESSAGE Module SimpleRestService published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-10 11:46:32.011
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-10 11:46:38.035
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 11:48:01.509
+!MESSAGE 1 files modified in module SimpleRestService
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 11:49:04.421
+!MESSAGE 1 files modified in module SimpleRestService
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 11:49:33.614
+!MESSAGE 1 files modified in module SimpleRestService
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 11:49:35.942
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 11:49:36.069
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 11:49:36.071
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 11:49:58.918
+!MESSAGE Module SimpleRestService published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-10 11:50:04.194
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-10 11:50:10.360
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 11:50:41.639
+!MESSAGE 1 files modified in module SimpleRestService
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 11:50:42.262
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 11:50:42.265
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 11:50:42.267
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-10 11:50:56.504
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-10 11:51:03.137
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 11:52:35.606
+!MESSAGE 1 files modified in module SimpleRestService
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 14:07:24.347
+!MESSAGE 1 files modified in module SimpleRestService
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 14:15:45.086
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 14:15:45.103
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 14:15:45.107
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 14:15:59.942
+!MESSAGE Module RestTravelService published without error.
+
+!ENTRY unknown 0 0 2013-07-10 14:15:59.991
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-10 14:16:05.399
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-10 14:16:17.962
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 14:18:28.837
+!MESSAGE 1 files modified in module RestTravelService
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 14:18:35.778
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 14:18:35.818
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 14:18:35.821
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 14:19:08.664
+!MESSAGE Module RestTravelService published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-10 14:19:13.988
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-10 14:19:20.690
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 14:20:24.899
+!MESSAGE 1 files modified in module RestTravelService
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 14:20:30.626
+!MESSAGE 1 files modified in module RestTravelService
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 14:20:59.108
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 14:20:59.153
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 14:20:59.155
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 14:24:19.091
+!MESSAGE Module RestTravelService published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-10 14:24:24.819
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-10 14:24:31.397
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 14:33:23.250
+!MESSAGE 1 files modified in module RestTravelService
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 14:33:44.149
+!MESSAGE 1 files modified in module RestTravelService
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 14:33:53.736
+!MESSAGE 1 files modified in module RestTravelService
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 14:34:10.417
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 14:34:10.467
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 14:34:10.471
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 14:34:33.063
+!MESSAGE Module RestTravelService published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-10 14:34:38.340
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-10 14:34:44.957
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 14:53:24.521
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 14:53:24.538
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 14:53:24.540
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 14:54:26.778
+!MESSAGE Module RestTravelService published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-10 14:54:32.119
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-10 14:54:39.145
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 14:56:17.233
+!MESSAGE 1 files modified in module RestTravelService
+
+!ENTRY unknown 0 0 2013-07-10 14:56:36.512
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 14:56:51.484
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 14:56:51.524
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 14:56:51.529
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 14:57:01.876
+!MESSAGE Module RestTravelService published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-10 14:57:07.253
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-10 14:57:14.207
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 15:08:37.961
+!MESSAGE 1 files modified in module RestTravelService
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 16:16:40.852
+!MESSAGE 3 files modified in module RestTravelService
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 16:16:54.416
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 16:16:54.423
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 16:16:54.424
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 16:17:23.126
+!MESSAGE Module CDI_Injection published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 16:17:23.204
+!MESSAGE Module RestTravelService published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-10 16:17:28.528
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-10 16:17:35.396
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 16:19:13.186
+!MESSAGE 1 files modified in module RestTravelService
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 16:19:57.380
+!MESSAGE 4 files modified in module RestTravelService
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 16:19:59.151
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 16:19:59.261
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 16:19:59.264
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 16:20:41.096
+!MESSAGE Module RestTravelService published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 16:20:41.232
+!MESSAGE Module CDI_Injection published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-10 16:20:46.438
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-10 16:20:52.195
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-10 16:20:52.577
+!MESSAGE Module RestTravelService on JBoss 7.1 Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2013-07-10 16:21:14.058
+!MESSAGE Module RestTravelService on JBoss 7.1 Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 16:23:55.052
+!MESSAGE 1 files modified in module RestTravelService
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 16:23:58.681
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 16:23:58.726
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 16:23:58.727
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 16:24:36.847
+!MESSAGE Module CDI_Injection published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 16:24:36.888
+!MESSAGE Module RestTravelService published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-10 16:24:42.145
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-10 16:24:48.021
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 16:25:37.714
+!MESSAGE 1 files modified in module RestTravelService
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 16:25:38.663
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 16:25:38.673
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 16:25:38.675
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 16:26:03.370
+!MESSAGE Module CDI_Injection published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 16:26:03.413
+!MESSAGE Module RestTravelService published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-10 16:26:08.585
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-10 16:26:14.289
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 16:39:01.027
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 16:39:01.045
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 16:39:01.051
+!MESSAGE Server processes have been terminated.
+!SESSION 2013-07-10 21:45:59.558 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_21
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IE
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 21:49:03.888
+!MESSAGE Module CDI_Injection published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 21:49:03.965
+!MESSAGE Module RestTravelService published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-10 21:49:10.087
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-10 21:49:23.421
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 21:50:17.428
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 21:50:17.483
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 21:50:17.494
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 21:51:40.673
+!MESSAGE Module CDI_Injection published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 21:51:40.754
+!MESSAGE Module RestTravelService published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-10 21:51:46.525
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-10 21:51:55.803
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 21:52:20.888
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 21:52:20.902
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 21:52:20.907
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 21:53:15.484
+!MESSAGE Module CDI_Injection published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 21:53:15.577
+!MESSAGE Module RestTravelService published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-10 21:53:21.095
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-10 21:53:31.688
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 21:54:58.752
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 21:54:58.874
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 21:54:58.878
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 21:57:52.753
+!MESSAGE Module CDI_Injection published without error.
+
+!ENTRY unknown 0 0 2013-07-10 21:57:52.768
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-10 21:57:58.202
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-10 21:58:05.627
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 22:05:21.885
+!MESSAGE Module RestTravelService published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-10 22:05:23.424
+!MESSAGE Module RestTravelService on JBoss 7.1 Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2013-07-10 22:05:43.086
+!MESSAGE Module RestTravelService on JBoss 7.1 Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 22:06:22.873
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 22:06:22.901
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 22:06:22.906
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 22:07:43.274
+!MESSAGE Module CDI_Injection published without error.
+
+!ENTRY unknown 0 0 2013-07-10 22:07:43.289
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-10 22:07:48.658
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-10 22:07:57.664
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 22:08:28.175
+!MESSAGE Module RestTravelService published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-10 22:08:29.720
+!MESSAGE Module RestTravelService on JBoss 7.1 Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2013-07-10 22:08:51.382
+!MESSAGE Module RestTravelService on JBoss 7.1 Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 22:19:28.312
+!MESSAGE 1 files modified in module RestTravelService
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 22:19:39.892
+!MESSAGE 1 files modified in module RestTravelService
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-10 22:19:57.762
+!MESSAGE Module RestTravelService on JBoss 7.1 Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2013-07-10 22:20:19.384
+!MESSAGE Module RestTravelService on JBoss 7.1 Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 22:20:55.882
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 22:20:55.913
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 22:20:55.919
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 22:21:26.905
+!MESSAGE Module CDI_Injection published without error.
+
+!ENTRY unknown 0 0 2013-07-10 22:21:26.922
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-10 22:21:32.255
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-10 22:21:44.494
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 22:21:56.188
+!MESSAGE Module RestTravelService published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-10 22:21:57.801
+!MESSAGE Module RestTravelService on JBoss 7.1 Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2013-07-10 22:22:17.451
+!MESSAGE Module RestTravelService on JBoss 7.1 Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY unknown 0 0 2013-07-10 22:56:14.011
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 22:58:20.391
+!MESSAGE Module EJBInterceptors published without error.
+
+!ENTRY unknown 0 0 2013-07-10 22:59:57.202
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 23:02:08.421
+!MESSAGE Module EJBInterceptors published without error.
+
+!ENTRY unknown 0 0 2013-07-10 23:02:35.154
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 23:02:46.909
+!MESSAGE Module EJBInterceptors published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 23:06:22.892
+!MESSAGE 1 files modified in module EJBInterceptors
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 23:06:34.411
+!MESSAGE 1 files modified in module EJBInterceptors
+
+!ENTRY unknown 0 0 2013-07-10 23:06:41.817
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 23:07:02.227
+!MESSAGE Module EJBInterceptors published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 23:09:03.315
+!MESSAGE 1 files modified in module EJBInterceptors
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 23:09:17.883
+!MESSAGE 4 files modified in module EJBInterceptors
+
+!ENTRY unknown 0 0 2013-07-10 23:09:30.834
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 23:09:39.146
+!MESSAGE Module EJBInterceptors published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 23:11:27.883
+!MESSAGE Module RestTravelService published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-10 23:11:29.726
+!MESSAGE Module RestTravelService on JBoss 7.1 Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2013-07-10 23:11:49.223
+!MESSAGE Module RestTravelService on JBoss 7.1 Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 23:45:35.103
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 23:45:35.121
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-10 23:45:35.125
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-10 23:46:12.742
+!MESSAGE Module CDI_Injection published without error.
+
+!ENTRY unknown 0 0 2013-07-10 23:46:12.756
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-10 23:46:12.772
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-10 23:46:18.261
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-10 23:46:30.879
+!MESSAGE Server Startup Succeeded
+
+!ENTRY unknown 0 0 2013-07-11 00:15:54.390
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:29:55.889
+!MESSAGE Module RestTravelService published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 00:29:56.987
+!MESSAGE Module RestTravelService on JBoss 7.1 Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2013-07-11 00:30:16.981
+!MESSAGE Module RestTravelService on JBoss 7.1 Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:30:33.151
+!MESSAGE Module SimpleRestService published without error.
+
+!ENTRY unknown 0 0 2013-07-11 00:30:33.168
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 00:30:33.907
+!MESSAGE Module SimpleRestService on JBoss 7.1 Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-11 00:32:39.171
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-11 00:32:39.280
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-11 00:32:39.282
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:33:26.857
+!MESSAGE Module SimpleRestService published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-11 00:33:32.060
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-11 00:33:38.311
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-11 00:36:12.398
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-11 00:36:12.428
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-11 00:36:12.431
+!MESSAGE Server processes have been terminated.

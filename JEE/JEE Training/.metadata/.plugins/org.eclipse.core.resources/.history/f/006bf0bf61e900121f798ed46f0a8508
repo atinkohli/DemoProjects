@@ -1,0 +1,5 @@
+package com.kohlisoft.travel.rest.domain;
+
+public class Hotel {
+
+}

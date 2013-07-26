@@ -1,0 +1,6 @@
+package com.kohlisoft.rest.webservice;
+
+import java.util.Set;
+
+public class MyRESTApplication extends Application {
+}

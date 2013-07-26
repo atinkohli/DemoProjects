@@ -1,0 +1,8 @@
+package com.kohlisoft.rest.webservice;
+
+import javax.ws.rs.Produces;
+import javax.ws.rs.GET;
+
+@Path("/MyRESTApplication")
+public class HelloWorldResource {
+}

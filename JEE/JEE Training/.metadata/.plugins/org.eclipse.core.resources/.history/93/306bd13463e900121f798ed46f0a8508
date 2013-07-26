@@ -1,0 +1,39 @@
+package com.kohlisoft.travel.rest.service;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.ws.rs.Produces;
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+
+import com.kohlisoft.travel.rest.domain.Hotel;
+
+@Path("/MyRESTApplication")
+public class TravelService {
+
+	private List<Hotel> list = new ArrayList<Hotel>();
+	public TravelService() {
+		Hotel h1 = new Hotel();
+		h1.setName("Radisson");
+		h1.setCity("Athlone");
+		h1.setStars(4);
+		
+		Hotel h2 = new Hotel();
+		h2.setName("Sheraton");
+		h2.setCity("Athlone");
+		h2.setStars(4);
+		
+		list.add(h1);
+		list.add(h2);
+		
+		
+	}
+	
+	@GET()
+	@Produces("text/xml")
+	@Path("/hotels")
+	public List<Hotel> getHotels() {
+	    return list;
+	}
+}

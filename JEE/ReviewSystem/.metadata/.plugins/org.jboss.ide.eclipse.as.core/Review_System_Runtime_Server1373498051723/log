@@ -1,0 +1,1800 @@
+!SESSION 2013-07-11 00:02:26.466 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_21
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IE
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:14:32.904
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:14:32.966
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:14:33.025
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:14:33.073
+!MESSAGE Module ReviewSystemWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:14:33.163
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 00:14:45.050
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 00:15:00.667
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2013-07-11 00:15:05.571
+!MESSAGE Module ReviewSystem on Review System Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2013-07-11 00:15:20.114
+!MESSAGE Module ReviewSystem on Review System Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY unknown 0 0 2013-07-11 00:16:16.139
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:16:16.171
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:16:16.203
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:16:16.228
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:16:16.246
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:16:28.640
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:16:28.675
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:16:28.734
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:16:28.779
+!MESSAGE Module ReviewSystemWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:16:29.290
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 00:16:30.938
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2013-07-11 00:16:50.507
+!MESSAGE Module ReviewSystem on Review System Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY unknown 0 0 2013-07-11 00:18:08.046
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:18:08.073
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:18:08.102
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:18:08.131
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:18:08.152
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:27:39.589
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:27:39.608
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:27:39.633
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:27:39.675
+!MESSAGE Module ReviewSystemWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:27:39.710
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 00:27:40.212
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2013-07-11 00:28:00.146
+!MESSAGE Module ReviewSystem on Review System Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842776 2013-07-11 00:36:51.127
+!MESSAGE Server shutting down
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-11 00:36:52.239
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842785 2013-07-11 00:36:52.249
+!MESSAGE Server Shutdown Succeeded
+
+!ENTRY unknown 0 0 2013-07-11 00:36:56.760
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:36:56.773
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:36:56.788
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:36:56.804
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:36:56.811
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.jmx.integration 4 0 2013-07-11 00:37:06.547
+!MESSAGE Error connecting to jmx for server Review System Runtime Server
+!STACK 1
+org.jboss.tools.jmx.core.JMXException: Unable to reach JBoss instance. Please ensure your server is up and exposes its management ports via the -Djboss.bind.address.management=yourwebsite.com system property
+	at org.jboss.ide.eclipse.as.jmx.integration.JBoss71ServerConnection.createConnection(JBoss71ServerConnection.java:87)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:143)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:127)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:116)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.connectToStartedServer(JBossServerConnection.java:233)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection$1.run(JBossServerConnection.java:225)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.lang.RuntimeException: Operation failed with status WAITING
+	at org.jboss.remotingjmx.RemotingConnector.connect(RemotingConnector.java:154)
+	at javax.management.remote.JMXConnectorFactory.connect(Unknown Source)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBoss71ServerConnection.createConnection(JBoss71ServerConnection.java:71)
+	... 6 more
+!SUBENTRY 1 org.jboss.ide.eclipse.as.core 4 0 2013-07-11 00:37:06.550
+!MESSAGE Unable to reach JBoss instance. Please ensure your server is up and exposes its management ports via the -Djboss.bind.address.management=yourwebsite.com system property
+!STACK 0
+java.lang.RuntimeException: Operation failed with status WAITING
+	at org.jboss.remotingjmx.RemotingConnector.connect(RemotingConnector.java:154)
+	at javax.management.remote.JMXConnectorFactory.connect(Unknown Source)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBoss71ServerConnection.createConnection(JBoss71ServerConnection.java:71)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:143)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:127)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.run(JBossServerConnection.java:116)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection.connectToStartedServer(JBossServerConnection.java:233)
+	at org.jboss.ide.eclipse.as.jmx.integration.JBossServerConnection$1.run(JBossServerConnection.java:225)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:37:13.087
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:37:13.106
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:37:13.146
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:37:13.189
+!MESSAGE Module ReviewSystemWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:37:13.225
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 00:37:18.739
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2013-07-11 00:37:35.014
+!MESSAGE Module ReviewSystem on Review System Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY unknown 0 0 2013-07-11 00:38:17.002
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:38:17.017
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:38:17.043
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:38:17.066
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:38:17.079
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:38:31.954
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:38:31.976
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:38:32.002
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:38:32.042
+!MESSAGE Module ReviewSystemWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:38:32.109
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 00:38:37.600
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2013-07-11 00:38:53.746
+!MESSAGE Module ReviewSystem on Review System Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY unknown 0 0 2013-07-11 00:39:39.145
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:39:39.160
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:39:39.221
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:39:39.233
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:39:39.243
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:39:57.224
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:39:57.244
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:39:57.296
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:39:57.329
+!MESSAGE Module ReviewSystemWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:39:57.358
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 00:40:02.875
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2013-07-11 00:40:19.032
+!MESSAGE Module ReviewSystem on Review System Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY unknown 0 0 2013-07-11 00:40:42.726
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:40:42.742
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:40:42.774
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:40:42.783
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:40:42.791
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:41:21.163
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:41:21.182
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:41:21.203
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:41:21.240
+!MESSAGE Module ReviewSystemWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:41:21.276
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 00:41:27.201
+!MESSAGE Module ReviewSystemWeb on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2013-07-11 00:41:43.347
+!MESSAGE Module ReviewSystemWeb on Review System Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:42:45.674
+!MESSAGE 1 files modified in module ReviewSystemWeb
+
+!ENTRY unknown 0 0 2013-07-11 00:42:51.888
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:42:51.905
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:42:51.932
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:42:51.944
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:42:51.952
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:43:09.196
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:43:09.209
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:43:09.234
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:43:09.268
+!MESSAGE Module ReviewSystemWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:43:09.293
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 00:43:14.843
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2013-07-11 00:43:30.997
+!MESSAGE Module ReviewSystem on Review System Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:45:07.861
+!MESSAGE 2 files modified in module ReviewSystemWeb
+
+!ENTRY unknown 0 0 2013-07-11 00:45:07.871
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:45:07.878
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:45:07.886
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:45:29.750
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:45:29.763
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:45:47.671
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:45:47.708
+!MESSAGE Module ReviewSystemWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 00:45:53.219
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2013-07-11 00:46:09.381
+!MESSAGE Module ReviewSystem on Review System Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:48:07.091
+!MESSAGE 4 files modified in module ReviewSystemWeb
+
+!ENTRY unknown 0 0 2013-07-11 00:48:16.224
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 00:48:16.234
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:48:38.546
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:48:38.585
+!MESSAGE Module ReviewSystemWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 00:48:44.071
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2013-07-11 00:49:00.215
+!MESSAGE Module ReviewSystem on Review System Runtime Server still not ready to be shown in browser. Aborting delay.
+!SESSION 2013-07-11 00:52:55.278 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_21
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IE
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:53:50.091
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 00:53:50.165
+!MESSAGE Module ReviewSystemWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-11 00:53:56.369
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-11 00:54:03.283
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:00:11.679
+!MESSAGE 1 files modified in module ReviewSystemWeb
+
+!ENTRY unknown 0 0 2013-07-11 01:00:20.803
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 01:00:20.820
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:00:43.427
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:00:43.486
+!MESSAGE Module ReviewSystemWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 01:00:44.261
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:02:21.150
+!MESSAGE 4 files modified in module ReviewSystemWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:02:30.552
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:02:30.619
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:02:30.689
+!MESSAGE 2 files modified in module ReviewSystemWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:02:30.754
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:03:04.009
+!MESSAGE 1 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:03:15.789
+!MESSAGE 1 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:03:45.352
+!MESSAGE 2 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:03:45.429
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:04:34.503
+!MESSAGE 1 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:05:07.862
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:05:24.071
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:06:28.908
+!MESSAGE 1 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:07:28.352
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:07:41.410
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:08:00.235
+!MESSAGE 1 files modified in module ReviewSystemEjb
+
+!ENTRY unknown 0 0 2013-07-11 01:08:22.361
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 01:08:22.394
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 01:08:22.429
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 01:08:22.506
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 01:08:22.527
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:08:39.172
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:08:39.225
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:08:39.326
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:08:39.382
+!MESSAGE Module ReviewSystemWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:08:39.429
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 01:08:40.381
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2013-07-11 01:09:02.056
+!MESSAGE Module ReviewSystem on Review System Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:09:04.023
+!MESSAGE 3 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:09:04.095
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:09:04.127
+!MESSAGE 2 files modified in module ReviewSystemWeb
+
+!ENTRY unknown 0 0 2013-07-11 01:09:04.136
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 01:09:16.897
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 01:09:16.950
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 01:09:16.985
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 01:09:17.006
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:09:27.033
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:09:27.082
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:09:27.187
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:09:27.249
+!MESSAGE Module ReviewSystemWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:11:22.802
+!MESSAGE 2 files modified in module ReviewSystemWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:11:33.979
+!MESSAGE 1 files modified in module ReviewSystemWeb
+
+!ENTRY unknown 0 0 2013-07-11 01:11:41.268
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 01:11:41.327
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 01:11:41.357
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 01:11:41.380
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:11:53.389
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:11:53.434
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:11:53.538
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:11:53.602
+!MESSAGE Module ReviewSystemWeb published without error.
+
+!ENTRY unknown 0 0 2013-07-11 01:13:18.542
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 01:13:18.604
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 01:13:18.660
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 01:13:18.681
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:14:05.081
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:14:05.166
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:14:05.263
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:14:05.337
+!MESSAGE Module ReviewSystemWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 01:14:06.485
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY unknown 0 0 2013-07-11 01:15:30.988
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 01:15:31.048
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 01:15:31.083
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 01:15:31.106
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:16:56.453
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:16:56.501
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:16:56.614
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:16:56.684
+!MESSAGE Module ReviewSystemWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 01:16:57.744
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:18:58.527
+!MESSAGE 1 files modified in module ReviewSystemEjb
+
+!ENTRY unknown 0 0 2013-07-11 01:19:08.991
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 01:19:09.030
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 01:19:09.054
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 01:19:09.075
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:19:18.723
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:19:18.772
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:19:18.873
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:19:18.931
+!MESSAGE Module ReviewSystemWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 01:19:20.451
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:20:42.130
+!MESSAGE 2 files modified in module ReviewSystemWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:20:46.768
+!MESSAGE 1 files modified in module ReviewSystemWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:21:24.784
+!MESSAGE 1 files modified in module ReviewSystemWeb
+
+!ENTRY unknown 0 0 2013-07-11 01:21:37.146
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 01:21:37.198
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 01:21:37.216
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 01:21:37.263
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:21:46.338
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:21:46.392
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:21:46.505
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:21:46.570
+!MESSAGE Module ReviewSystemWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 01:21:47.544
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:26:45.622
+!MESSAGE 1 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:26:52.820
+!MESSAGE 1 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:28:30.058
+!MESSAGE 1 files modified in module ReviewSystemWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:28:51.675
+!MESSAGE 1 files modified in module ReviewSystemWeb
+
+!ENTRY unknown 0 0 2013-07-11 01:29:01.697
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 01:29:01.747
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 01:29:01.766
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 01:29:01.820
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:29:10.114
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:29:10.161
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:29:10.268
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:29:10.332
+!MESSAGE Module ReviewSystemWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 01:29:11.265
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:31:22.392
+!MESSAGE 1 files modified in module ReviewSystemWeb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:32:20.516
+!MESSAGE 1 files modified in module ReviewSystemWeb
+
+!ENTRY unknown 0 0 2013-07-11 01:32:37.267
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 01:32:37.301
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 01:32:37.320
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 01:32:37.335
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:32:47.722
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:32:47.771
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:32:47.893
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 01:32:47.947
+!MESSAGE Module ReviewSystemWeb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 01:32:48.859
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-11 09:50:03.168
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-11 09:50:03.251
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-11 09:50:03.263
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 10:00:40.047
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 10:00:40.096
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 10:00:40.201
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 10:00:40.268
+!MESSAGE Module OnlineReviewSystem published without error.
+
+!ENTRY unknown 0 0 2013-07-11 10:00:40.282
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-11 10:00:45.633
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-11 10:00:58.119
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 10:35:16.986
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 10:54:12.314
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-11 10:55:06.663
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-11 10:55:06.679
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-11 10:55:06.702
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 10:56:50.295
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 10:56:50.352
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 10:56:50.450
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 10:56:50.527
+!MESSAGE Module OnlineReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-11 10:56:55.881
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-11 10:57:04.004
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 10:57:05.808
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 11:48:45.536
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 11:49:26.817
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 11:49:57.352
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 11:50:04.505
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 11:50:23.900
+!MESSAGE 1 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 11:51:42.377
+!MESSAGE 2 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 11:51:42.437
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 11:51:58.801
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 11:51:58.830
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 11:52:46.550
+!MESSAGE 1 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 11:52:46.648
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 11:54:12.457
+!MESSAGE 1 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 11:55:47.892
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-11 11:55:57.661
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-11 11:55:57.687
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-11 11:55:57.697
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 11:56:15.391
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 11:56:15.452
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 11:56:15.552
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 11:56:15.629
+!MESSAGE Module OnlineReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-11 11:56:21.107
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-11 11:56:27.205
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 11:56:27.685
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 11:58:29.443
+!MESSAGE 3 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 11:58:29.634
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 11:58:29.671
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 11:59:37.507
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 11:59:37.542
+!MESSAGE 2 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:03:23.352
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:13:27.973
+!MESSAGE 3 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:14:39.541
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:14:39.598
+!MESSAGE 2 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:17:48.625
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:19:05.330
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:20:49.218
+!MESSAGE 1 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:20:49.272
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:20:52.833
+!MESSAGE 1 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:21:17.627
+!MESSAGE 1 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:23:00.053
+!MESSAGE 1 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:23:00.158
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:27:35.015
+!MESSAGE 1 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:29:36.770
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:30:18.895
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:30:23.893
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:32:05.911
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:34:58.966
+!MESSAGE 3 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:34:59.048
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:34:59.081
+!MESSAGE 2 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-11 12:35:03.883
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-11 12:35:03.917
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-11 12:35:03.928
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:36:45.141
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:36:45.215
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:36:45.327
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:36:45.403
+!MESSAGE Module OnlineReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:36:45.481
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-11 12:36:50.947
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-11 12:37:03.184
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 12:37:04.018
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2013-07-11 12:37:24.157
+!MESSAGE Module ReviewSystem on Review System Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:40:30.491
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY unknown 0 0 2013-07-11 12:42:06.506
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 12:42:06.551
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 12:42:06.598
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 12:42:06.678
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 12:42:06.703
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:43:14.286
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:43:14.340
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:43:14.525
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:43:14.591
+!MESSAGE Module OnlineReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:43:14.649
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 12:43:15.814
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY unknown 0 0 2013-07-11 12:48:27.379
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 12:48:27.405
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 12:48:27.423
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 12:48:27.438
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 12:48:27.452
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:49:40.360
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:49:40.411
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:49:40.517
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:49:40.582
+!MESSAGE Module OnlineReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:49:40.649
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:53:12.608
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:54:38.642
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:54:52.485
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:55:28.424
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:58:11.152
+!MESSAGE 1 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:58:44.603
+!MESSAGE 1 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:58:44.667
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:58:44.688
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:58:52.563
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:59:02.756
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:59:07.680
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:59:15.211
+!MESSAGE 1 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:59:42.087
+!MESSAGE 1 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 12:59:42.216
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 13:03:56.551
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 13:04:58.703
+!MESSAGE 1 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 13:05:06.671
+!MESSAGE 1 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 13:05:06.770
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 13:05:06.798
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 13:05:27.527
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY unknown 0 0 2013-07-11 13:05:38.147
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 13:05:38.187
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 13:05:38.227
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 13:05:38.267
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 13:05:38.284
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 13:05:48.420
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 13:05:48.522
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 13:05:48.626
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 13:05:48.700
+!MESSAGE Module OnlineReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 13:05:48.759
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY unknown 0 0 2013-07-11 13:06:31.492
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 13:06:31.539
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 13:06:31.574
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 13:06:31.613
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 13:06:31.630
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 13:07:30.320
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 13:07:30.371
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 13:07:30.457
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 13:07:30.548
+!MESSAGE Module OnlineReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 13:07:30.605
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 14:38:59.083
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 14:42:23.958
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 15:01:07.404
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 15:01:44.667
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 15:08:07.263
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 15:09:16.328
+!MESSAGE 1 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 15:09:38.719
+!MESSAGE 1 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 15:09:38.784
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 15:09:38.810
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 15:09:54.234
+!MESSAGE 1 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 15:09:54.345
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 15:10:33.802
+!MESSAGE 3 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 15:10:39.903
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 15:11:07.974
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 15:11:17.728
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 15:12:36.333
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 15:13:05.940
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 15:14:29.046
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 15:14:39.364
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 15:16:59.159
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 15:18:10.651
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY unknown 0 0 2013-07-11 15:18:44.108
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 15:18:44.188
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 15:18:44.225
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 15:18:44.255
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 15:18:44.277
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 15:18:55.691
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 15:18:55.744
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 15:18:55.839
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 15:18:55.943
+!MESSAGE Module OnlineReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 15:18:56.002
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 15:19:00.624
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 15:26:51.793
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY unknown 0 0 2013-07-11 15:27:06.155
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 15:27:06.194
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 15:27:06.212
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 15:27:06.227
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 15:27:06.241
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 15:27:33.201
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 15:27:33.246
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 15:27:33.364
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 15:27:33.485
+!MESSAGE Module OnlineReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 15:27:33.539
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 15:27:35.898
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-11 15:57:02.519
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-11 15:57:02.581
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-11 15:57:02.592
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:00:20.930
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:00:20.966
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:00:21.024
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:00:21.083
+!MESSAGE Module OnlineReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:00:21.124
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-11 16:00:26.498
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-11 16:00:39.339
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 16:00:40.999
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:06:37.270
+!MESSAGE 1 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:06:45.668
+!MESSAGE 1 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:07:03.743
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:11:58.086
+!MESSAGE 2 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:14:02.214
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY unknown 0 0 2013-07-11 16:14:10.057
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 16:14:10.106
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 16:14:10.128
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 16:14:10.177
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 16:14:10.195
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:14:28.399
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:14:28.443
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:14:28.531
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:14:28.621
+!MESSAGE Module OnlineReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:14:28.680
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 16:14:30.339
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:17:47.156
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:17:53.292
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY unknown 0 0 2013-07-11 16:18:02.272
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 16:18:02.319
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 16:18:02.344
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 16:18:02.361
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 16:18:02.383
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:18:14.509
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:18:14.560
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:18:14.654
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:18:14.748
+!MESSAGE Module OnlineReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:18:14.823
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 16:18:16.633
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:20:05.605
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY unknown 0 0 2013-07-11 16:20:20.652
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 16:20:20.674
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 16:20:20.686
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 16:20:20.696
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 16:20:20.705
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:20:31.898
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:20:31.939
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:20:32.055
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:20:32.138
+!MESSAGE Module OnlineReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:20:32.196
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 16:20:34.027
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:29:07.179
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY unknown 0 0 2013-07-11 16:29:14.804
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 16:29:14.850
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 16:29:14.891
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 16:29:14.922
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 16:29:14.947
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:29:25.027
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:29:25.079
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:29:25.160
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:29:25.258
+!MESSAGE Module OnlineReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:29:25.319
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 16:29:27.229
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:32:03.397
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:32:22.794
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:32:28.677
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:32:46.385
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY unknown 0 0 2013-07-11 16:33:05.255
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 16:33:05.294
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 16:33:05.319
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 16:33:05.337
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 16:33:05.353
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:33:19.634
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:33:19.684
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:33:19.760
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:33:19.839
+!MESSAGE Module OnlineReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:33:19.888
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 16:33:22.543
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:35:47.509
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:36:01.247
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY unknown 0 0 2013-07-11 16:36:11.879
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 16:36:11.912
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 16:36:11.934
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 16:36:11.960
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-11 16:36:11.984
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:36:28.727
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:36:28.778
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:36:28.874
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:36:28.955
+!MESSAGE Module OnlineReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:36:29.013
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-11 16:36:31.377
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-11 16:40:58.334
+!MESSAGE 1 files modified in module ReviewSystemEjb
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-12 12:12:51.491
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-12 12:12:51.529
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-12 12:12:51.542
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-12 12:13:19.887
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-12 12:13:19.946
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-12 12:13:20.061
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-12 12:13:20.152
+!MESSAGE Module OnlineReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-12 12:13:20.221
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-12 12:13:25.549
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-12 12:13:33.290
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-12 12:13:34.191
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2013-07-12 12:13:53.786
+!MESSAGE Module ReviewSystem on Review System Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY unknown 0 0 2013-07-12 12:15:29.301
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-12 12:15:29.336
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-12 12:15:29.356
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-12 12:15:29.373
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-12 12:15:29.399
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-12 12:15:36.781
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-12 12:15:36.802
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-12 12:15:36.806
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-12 12:15:56.538
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-12 12:15:56.589
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-12 12:15:56.676
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-12 12:15:56.767
+!MESSAGE Module OnlineReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-12 12:15:56.834
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-12 12:16:02.169
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-12 12:16:08.945
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-12 12:16:11.328
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY unknown 0 0 2013-07-12 13:09:35.655
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-12 13:09:35.693
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-12 13:09:35.728
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-12 13:09:35.749
+!MESSAGE OK
+
+!ENTRY unknown 0 0 2013-07-12 13:09:35.780
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-12 13:09:40.848
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-12 13:09:40.920
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-12 13:09:40.924
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-12 13:17:13.117
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-12 13:17:13.183
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-12 13:17:13.290
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-12 13:17:13.377
+!MESSAGE Module OnlineReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-12 13:17:13.437
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-12 13:17:18.767
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-12 13:17:24.894
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-12 13:17:25.518
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+!SESSION 2013-07-19 11:38:10.688 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_21
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IE
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-20 00:03:30.802
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-20 00:03:30.870
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-20 00:03:31.012
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-20 00:03:31.054
+!MESSAGE 1 files modified in module OnlineReviewSystem
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-20 00:03:31.139
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-20 00:04:26.335
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-20 00:04:38.874
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-20 00:04:39.782
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2013-07-20 00:05:00.691
+!MESSAGE Module ReviewSystem on Review System Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-20 00:05:23.720
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-20 00:05:23.794
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2013-07-20 00:05:23.808
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-20 00:06:39.587
+!MESSAGE Module ReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-20 00:06:39.649
+!MESSAGE Module ReviewSystemEjb published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-20 00:06:39.771
+!MESSAGE Module ReviewSystemEjbClient published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-20 00:06:39.894
+!MESSAGE Module OnlineReviewSystem published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2013-07-20 00:06:39.995
+!MESSAGE Module ReviewSystemJpa published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2013-07-20 00:06:45.390
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2013-07-20 00:06:53.122
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2013-07-20 00:06:55.669
+!MESSAGE Module ReviewSystem on Review System Runtime Server not yet fully deployed. Waiting...

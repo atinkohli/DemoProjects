@@ -1,0 +1,4 @@
+package com.kohlisoft.travel.rest.service;
+
+public class MyRESTApplication extends Application {
+}
